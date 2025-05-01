@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/andr-ch/3-column-preview-card-component.git](https://github.com/andr-ch/3-column-preview-card-component.git)
-- Live Site URL: [https://andr-ch.github.io/3-column-preview-card-component/](https://andr-ch.github.io/3-column-preview-card-component/)
+- Solution URL: [https://github.com/npc-makinika/3-column-preview-card-component.gitt](https://github.com/npc-makinika/3-column-preview-card-component.gitt)
+- Live Site URL: [https://npc-makinika.github.io/3-column-preview-card-component/](https://npc-makinika.github.io/3-column-preview-card-component/)
 
 
 ## My process
